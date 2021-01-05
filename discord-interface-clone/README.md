@@ -1,14 +1,14 @@
-# Clone da interface pricipal do Discord
+# Clone of the main Discord interface
 
-Esse projeto foi desenvolvido com ReactJS, com o objetivo de recriar interface pricipal do Discord.
+This project was developed with ReactJS, in order to recreate Discord's main interface.
 
-## Tecnologias usadas no projeto
+## Technologies used in the project
 
 - ReactJS
 - Styled Components
 - TypeScritp
 
-### Na sua maquina
+### On your machine
 
 ```
 npm install
