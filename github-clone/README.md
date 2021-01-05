@@ -1,6 +1,6 @@
 ![preview](https://github.com/DAVI-REZENDE/clones-with-react/blob/main/discord-interface-clone/public/preview-discord.gif)
 
-[Deploy link](https://discordcloneinterface.netlify.app/)
+[Deploy link](https://github-interface-clone.netlify.app/)
 
 # Clone of the main Discord interface
 
