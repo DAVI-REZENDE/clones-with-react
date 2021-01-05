@@ -1,4 +1,4 @@
-![preview](https://github.com/DAVI-REZENDE/clones-with-react/blob/main/discord-interface-clone/public/preview-discord.gif)
+![preview](https://github.com/DAVI-REZENDE/clones-with-react/blob/main/github-clone/public/preview-github.gif)
 
 [Deploy link](https://github-interface-clone.netlify.app/)
 
