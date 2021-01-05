@@ -12,3 +12,15 @@ the front end, which is responsive.
 
 - ReactJS
 - Material UI
+
+### On your machine
+
+```
+npm install
+npm start
+
+# our
+
+yarn install
+yarn start
+```
