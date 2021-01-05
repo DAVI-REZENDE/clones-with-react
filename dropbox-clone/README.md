@@ -1,22 +1,23 @@
-![preview](https://github.com/DAVI-REZENDE/dropbox-clone/blob/master/public/previw-dropbox.gif)
+![preview](https://github.com/DAVI-REZENDE/clones-with-react/blob/main/dropbox-clone/public/previw-dropbox.gif)
 
-# Clone da home do Dropbox
+[Deploy link](https://dropbox-clone-interface.netlify.app/)
 
-Esse projeto foi desenvolvido em ReactJS, e seu objetivo e reproduzir as funcionalidades do header
-do Dropbox e do side menu.
+# Dropbox home clone
 
-  
+This project was developed in ReactJS, and its objective is to reproduce the functionality of the header
+Dropbox and side menu.
 
-# Tecnologias usadas no projeto
+
+# Technologies used in the project
 
 - React
 - Styled Components
 - React Icons
 - TypeScript
 
-### Na sua maquina
+### On your machine
 
-Depois de clonar o projeto, basta rodar o comando abaixo no seu terminal ( na pasta do prajeto ).
+After cloning the project, simply run the command below in your terminal (in the project folder).
 
 ```
 yarn install
