@@ -58,7 +58,7 @@ export const Input = styled.input`
 
   ~ svg{
     position: relative;
-    top: -50%;
+    top: -34px;
     left: 14px;
     transition: 180ms ease-in-out;
   }

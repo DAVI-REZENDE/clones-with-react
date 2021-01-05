@@ -24,7 +24,7 @@ const ServerButton: React.FC<Props> = ({
         mentions={mentions}
         className={selected ? 'active' : ''}
       >
-          {isHome && <img src={UserIcon} />}
+          {isHome && <img src={UserIcon} alt="user" />}
       </Button>
   );
 }
