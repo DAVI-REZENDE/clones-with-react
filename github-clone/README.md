@@ -1,6 +1,12 @@
-![preview](https://github.com/DAVI-REZENDE/clones-with-react/blob/main/github-clone/public/preview-github.gif)
+<p align="center" >
+  <img alt="Preview" src="https://github.com/DAVI-REZENDE/clones-with-react/blob/main/github-clone/public/preview-github.gif" />
+</p>
 
-[Deploy link](https://github-interface-clone.netlify.app/)
+<p align="center" >
+  <a target="_blank" href="https://github-interface-clone.netlify.app/">
+    Deploy link
+  </a>
+</p>
 
 # Clone of the main Github interface
 
