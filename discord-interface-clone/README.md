@@ -1,6 +1,15 @@
-![preview](https://github.com/DAVI-REZENDE/clones-with-react/blob/main/discord-interface-clone/public/preview-discord.gif)
+<!-- ![preview](https://github.com/DAVI-REZENDE/clones-with-react/blob/main/discord-interface-clone/public/preview-discord.gif) -->
 
-[Deploy link](https://discordcloneinterface.netlify.app/)
+
+<p align="center" >
+  <img alt="Preview" src="https://github.com/DAVI-REZENDE/clones-with-react/blob/main/discord-interface-clone/public/preview-discord.gif" />
+</p>
+
+<p align="center" >
+  <a href="https://discordcloneinterface.netlify.app/">
+    Deploy link
+  </a>
+</p>
 
 # Clone of the main Discord interface
 
