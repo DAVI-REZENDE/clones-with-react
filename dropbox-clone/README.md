@@ -1,6 +1,12 @@
-![preview](https://github.com/DAVI-REZENDE/clones-with-react/blob/main/dropbox-clone/public/previw-dropbox.gif)
+<p align="center" >
+  <img alt="Preview" src="https://github.com/DAVI-REZENDE/clones-with-react/blob/main/dropbox-clone/public/previw-dropbox.gif" />
+</p>
 
-[Deploy link](https://dropbox-clone-interface.netlify.app/)
+<p align="center" >
+  <a target="_blank" href="https://dropbox-clone-interface.netlify.app/">
+    Deploy link
+  </a>
+</p>
 
 # Dropbox home clone
 
