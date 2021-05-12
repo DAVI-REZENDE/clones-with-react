@@ -1,12 +1,9 @@
-<!-- ![preview](https://github.com/DAVI-REZENDE/clones-with-react/blob/main/discord-interface-clone/public/preview-discord.gif) -->
-
-
 <p align="center" >
   <img alt="Preview" src="https://github.com/DAVI-REZENDE/clones-with-react/blob/main/discord-interface-clone/public/preview-discord.gif" />
 </p>
 
 <p align="center" >
-  <a href="https://discordcloneinterface.netlify.app/">
+  <a target="_blank" href="https://discordcloneinterface.netlify.app/">
     Deploy link
   </a>
 </p>
