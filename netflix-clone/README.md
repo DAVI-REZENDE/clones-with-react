@@ -1,6 +1,12 @@
-![preview](https://github.com/DAVI-REZENDE/clones-with-react/blob/main/netflix-clone/public/preview.gif)
+<p align="center" >
+  <img alt="Preview" src="https://github.com/DAVI-REZENDE/clones-with-react/blob/main/netflix-clone/public/preview.gif" />
+</p>
 
-[Deploy Link](https://netflix-interface-clone.netlify.app)
+<p align="center" >
+  <a target="_blank" href="https://netflix-interface-clone.netlify.app">
+    Deploy link
+  </a>
+</p>
 
 # Netflix Clone
 
