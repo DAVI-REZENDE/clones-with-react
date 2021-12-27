@@ -16,7 +16,7 @@ This project was developed with ReactJS, in order to recreate Discord's main int
 
 - ReactJS
 - Styled Components
-- TypeScritp
+- TypeScript
 
 ### On your machine
 
